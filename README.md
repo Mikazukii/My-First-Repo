@@ -1,5 +1,9 @@
-Name : Adrian Holovaty
+Name : Pak Bepe
 
-NPM : 1006123456
+NPM : 2201234567
 
-Class : Z
+Class : PBP KKI
+
+Hobby : Sleeping
+
+Major : Computer System Information
